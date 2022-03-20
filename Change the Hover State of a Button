@@ -11,7 +11,7 @@
     animation-duration: 500ms;
     /* the code below will make the button stays highlighted when a user hovers over it. */
     animation-fill-mode: forwards;
-    /* Only change code above this line */
+    /* Only change code above */
   }
   @keyframes background-color {
     100% {
